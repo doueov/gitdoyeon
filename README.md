@@ -26,11 +26,11 @@
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
           </div>
     </div>
-    <div align= "center">
+    <div align="left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://velog.io/@doueov/series> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@doueov/series"> </a>
          <a href=mailto:w2204@e-mirim.hs.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:w2204@e-mirim.hs.kr"> </a>
           </div>  <br> 
-    <div align= "center">  </div> 
+   <div align="left">  </div> 
     </div>
     
