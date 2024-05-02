@@ -31,4 +31,4 @@
         <a href=https://velog.io/@doueov/series> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@doueov/series"> </a>
         <a href=mailto:w2204@e-mirim.hs.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:w2204@e-mirim.hs.kr"> </a>
     </div>
-</div>](url)
+</div>
